@@ -2,7 +2,7 @@
 
 <img src="assets/logo_sari.png" alt="ITU Logo" width="200" align="right"/>
 
-# KON 414E - Fundamentals of Robot Autonomy
+# KON 414E - Principles of Robot Autonomy
 
 ### Course Projects Showcase Repository
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-This repository serves as a comprehensive, **ever-growing showcase** of innovative robotics projects developed by student teams enrolled in **KON 414E: Fundamentals of Robot Autonomy** across multiple academic years. Each project demonstrates practical applications of advanced robotics concepts, autonomous systems, and intelligent control mechanisms studied throughout the course.
+This repository serves as a comprehensive, **ever-growing showcase** of innovative robotics projects developed by student teams enrolled in **KON 414E: Principles of Robot Autonomy** across multiple academic years. Each project demonstrates practical applications of advanced robotics concepts, autonomous systems, and intelligent control mechanisms studied throughout the course.
 
 **Open to All Students:** Past, current, and future KON 414E students are welcome to contribute their projects!
 
@@ -67,7 +67,7 @@ Your contributions help build a valuable resource that inspires and guides futur
 </tr>
 <tr>
 <td><strong>Course Title</strong></td>
-<td>Fundamentals of Robot Autonomy</td>
+<td>Principles of Robot Autonomy</td>
 </tr>
 <tr>
 <td><strong>Current Academic Year</strong></td>
