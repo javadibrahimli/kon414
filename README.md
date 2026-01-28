@@ -37,7 +37,7 @@ The repository aims to:
 | Project Name | Team Members | Academic Year | Technologies | Demo/Video | Repository |
 |:-------------|:-------------|:-------------:|:-------------|:----------:|:----------:|
 | **Tomato Agricultural Robot (Agribot)** | Javad Ibrahimli, Kamran Ismayilzade, Ulvi Azizli | 2025-2026 | ROS2, GPS Navigation, EKF Sensor Fusion, Computer Vision, Python | [![Watch Demo](https://img.youtube.com/vi/l-CaW9BXy54/mqdefault.jpg)](https://www.youtube.com/watch?v=l-CaW9BXy54) | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/javadibrahimli/tomato_agribot_ros2) |
-
+| **Warthog Lidar Calibration** | Kadir Yavuz Kurt, Mert Kılıç, Mustafa Turan Koçak | 2025 - 2026 | Lidar - Depth Camera Slam, Lidar Calibration | [![Demo](https://img.shields.io/badge/Demo-Watch%20Video-red?style=flat&logo=googledrive)](https://drive.google.com/file/d/1Nqu-Suk_PRRUNSI61nSBuEVQ62xwNn95/view?usp=sharing) | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/kyavuzkurt/warthog) |
 </div>
 
 ---
