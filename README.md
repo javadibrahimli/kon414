@@ -37,7 +37,7 @@ The repository aims to:
 | Project Name | Team Members | Academic Year | Technologies | Demo/Video | Repository |
 |:-------------|:-------------|:-------------:|:-------------|:----------:|:----------:|
 | **Tomato Agricultural Robot (Agribot)** | Javad Ibrahimli, Kamran Ismayilzade, Ulvi Azizli | 2025-2026 | ROS2, GPS Navigation, EKF Sensor Fusion, Computer Vision, Python | [![Watch Demo](https://img.youtube.com/vi/l-CaW9BXy54/mqdefault.jpg)](https://www.youtube.com/watch?v=l-CaW9BXy54) | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/javadibrahimli/tomato_agribot_ros2) |
-
+| **3D Mapping of the Environment**       | İsmet Erdoğan, Kürşat Döşkaya, Onur Sertgül |   2024-2025   | ROS, 3D LIDAR, Mapping, EKF Sensor Fusion, Python  | N/A |  [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/ismeterd/kon414e_project) |
 </div>
 
 ---
