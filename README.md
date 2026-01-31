@@ -38,6 +38,7 @@ The repository aims to:
 |:-------------|:-------------|:-------------:|:-------------|:----------:|:----------:|
 | **Tomato Agricultural Robot (Agribot)** | Javad Ibrahimli, Kamran Ismayilzade, Ulvi Azizli | 2025-2026 | ROS2, GPS Navigation, EKF Sensor Fusion, Computer Vision, Python | [![Watch Demo](https://img.youtube.com/vi/l-CaW9BXy54/mqdefault.jpg)](https://www.youtube.com/watch?v=l-CaW9BXy54) | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/javadibrahimli/tomato_agribot_ros2) |
 | **Warthog Lidar Calibration** | Kadir Yavuz Kurt, Mert Kılıç, Mustafa Turan Koçak | 2025 - 2026 | Lidar - Depth Camera Slam, Lidar Calibration | [![Demo](https://img.shields.io/badge/Demo-Watch%20Video-red?style=flat&logo=googledrive)](https://drive.google.com/file/d/1Nqu-Suk_PRRUNSI61nSBuEVQ62xwNn95/view?usp=sharing) | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/kyavuzkurt/warthog) |
+| **3D Mapping of the Environment**       | İsmet Erdoğan, Kürşat Döşkaya, Onur Sertgül |   2024-2025   | ROS, 3D LIDAR, Mapping, EKF Sensor Fusion, Python  | N/A |  [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=flat&logo=github)](https://github.com/ismeterd/kon414e_project) |
 </div>
 
 ---
@@ -82,9 +83,6 @@ Your contributions help build a valuable resource that inspires and guides futur
 <td>Electrical and Electronics Engineering</td>
 </tr>
 <tr>
-<td><strong>Instructor</strong></td>
-<td><a href="https://github.com/yilmazabdurrah">Assis. Prof. Dr. Abdurrahman Yılmaz</a></td>
-</tr>
 </table>
 
 ### Course Curriculum
@@ -153,34 +151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors
 
 <div align="center">
-
-### Repository Maintainers & Initial Contributors
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/javadibrahimli">
-<img src="https://github.com/javadibrahimli.png" width="100px;" alt="Javad Ibrahimli"/>
-<br />
-<sub><b>Javad Ibrahimli</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/kamranilv0">
-<img src="https://github.com/kamranilv0.png" width="100px;" alt="Kamran Ismayilzade"/>
-<br />
-<sub><b>Kamran Ismayilzade</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/ulvixz">
-<img src="https://github.com/ulvixz.png" width="100px;" alt="Ulvi Azizli"/>
-<br />
-<sub><b>Ulvi Azizli</b></sub>
-</a>
-</td>
-</tr>
-</table>
 
 </div>
 
